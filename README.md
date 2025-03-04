@@ -1,4 +1,5 @@
 # Git + GitHub As A Platform For Reproducible Research 
+final for bio165
 
 ## Overview
 This repository sets out the skeleton of an organizational structure used for scientific research. It loosely follows what I have used for several of my research projects and I hope it inspires you to conduct your research in an open, reproducible, and honest manner.
