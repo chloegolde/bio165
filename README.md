@@ -6,7 +6,9 @@ This repository contains the data and code we used for our final project. Data c
 
 ## Files
 dat_sccaled_final.csv - original data in a .csv format 
+
 Bio165_Final_Project.ipynb - jupyter notebook for statistical analyses and figure generation
+
 logisticregression_final - jupyter notebook for logistic regression model and figure generation
 
 
